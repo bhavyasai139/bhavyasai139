@@ -1,16 +1,72 @@
-## Hi there 👋
+I want you to transform my GitHub profile README.
 
-<!--
-**bhavyasai139/bhavyasai139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My details:
 
-Here are some ideas to get you started:
+Name:
+GADIKOTA BHAVYA SAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Role:
+AI/ML Developer | Full Stack Developer
+
+Education:
+B.Tech CSE
+
+Tech Stack:
+Java
+Python
+SQL
+JavaScript
+C
+React.js
+Next.js
+Node.js
+Express.js
+FastAPI
+MongoDB
+MySQL
+SQLite
+NLP
+TF-IDF
+YOLO
+CLIP
+SBERT
+PyTorch
+Git
+GitHub
+Postman
+
+Projects:
+
+1. Crime Scene Solver – Real-Time AI CCTV Detection System
+
+2. AI Resume Evaluation & Candidate Ranking System
+
+3. Emotion-Aware AI Music Generation & Voice Synthesis Platform
+
+Achievements:
+
+Top 250 Finalist – Centific Premier Hackathon 2.0
+
+2nd Place – Rewind and Recode National Hackathon
+
+Winner – Smart India Hackathon Internal Round
+
+Create:
+
+Animated header
+
+Professional about section
+
+Tech badges
+
+GitHub stats
+
+Trophies
+
+Visitor counter
+
+Project section
+
+Modern dark theme
+
+Automatically update README and save changes.
