@@ -1,72 +1,154 @@
-I want you to transform my GitHub profile README.
+<h1 align="center">Hi 👋 I'm Gadikota Bhavya Sai</h1>
 
-My details:
+<h3 align="center">
+AI/ML Developer | Full Stack Developer | B.Tech CSE Student
+</h3>
 
-Name:
-GADIKOTA BHAVYA SAI
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bhavyasai139&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Role:
-AI/ML Developer | Full Stack Developer
+---
 
-Education:
-B.Tech CSE
+## 🚀 About Me
+
+🎓 B.Tech CSE Student passionate about Artificial Intelligence and Full Stack Development
+
+🤖 Building AI systems using NLP, Computer Vision, Information Retrieval and Generative AI
+
+💡 Interested in:
+
+- Computer Vision
+- Resume Intelligence Systems
+- NLP Applications
+- Generative AI
+- Real-Time Detection Systems
+- AI Product Development
+
+🏆 Active Hackathon Participant and Problem Solver
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+Java • Python • SQL • JavaScript • C
+
+### 🎨 Frontend
+
+React.js • Next.js • HTML • CSS • Tailwind CSS • Streamlit
+
+### ⚙ Backend
+
+Node.js • Express.js • FastAPI • REST APIs
+
+### 🗄 Databases
+
+MongoDB • MySQL • SQLite
+
+### 🤖 AI / ML
+
+NLP • TF-IDF • Logistic Regression • Cosine Similarity
+
+YOLO • CLIP • SBERT • PyTorch
+
+### 🧰 Tools
+
+Git • GitHub • Postman • VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Crime Scene Solver – Real-Time AI CCTV Detection System
+
+Built an AI-powered CCTV analysis system using:
+
+YOLO + CLIP + SBERT + MongoDB + Next.js
+
+✔ Real-time video analysis
+
+✔ Semantic caption deduplication
+
+✔ Weapon detection evaluation
+
+✔ AI surveillance workflow
+
+---
+
+### 🔹 AI Resume Evaluation & Candidate Ranking System
+
+Features:
+
+✔ Resume Parsing
+
+✔ ATS Evaluation
+
+✔ Skill Extraction
+
+✔ Candidate Ranking
+
+✔ Role Detection
 
 Tech Stack:
-Java
-Python
-SQL
-JavaScript
-C
-React.js
-Next.js
-Node.js
-Express.js
-FastAPI
-MongoDB
-MySQL
-SQLite
-NLP
-TF-IDF
-YOLO
-CLIP
-SBERT
-PyTorch
-Git
-GitHub
-Postman
 
-Projects:
+Python • Streamlit • TF-IDF • Logistic Regression • SQLite
 
-1. Crime Scene Solver – Real-Time AI CCTV Detection System
+---
 
-2. AI Resume Evaluation & Candidate Ranking System
+### 🔹 Emotion-Aware AI Music Generation & Voice Synthesis Platform
 
-3. Emotion-Aware AI Music Generation & Voice Synthesis Platform
+Features:
 
-Achievements:
+✔ Emotion Classification
 
-Top 250 Finalist – Centific Premier Hackathon 2.0
+✔ Lyric Generation
 
-2nd Place – Rewind and Recode National Hackathon
+✔ Voice Synthesis
 
-Winner – Smart India Hackathon Internal Round
+✔ Music Generation
 
-Create:
+✔ Low latency AI workflow
 
-Animated header
+---
 
-Professional about section
+## 🏆 Achievements
 
-Tech badges
+🏅 Top 250 Finalist – Centific Premier Hackathon 2.0  
+Selected among 13,000+ participants
 
-GitHub stats
+🥈 2nd Place – Rewind and Recode National Level Hackathon
 
-Trophies
+🥇 Winner – Smart India Hackathon Internal College Selection Round
 
-Visitor counter
+🎯 Participant – AI Hackathon, IIT Hyderabad
 
-Project section
+🏆 Runner-up – Prakalp 2K24 Project Expo
 
-Modern dark theme
+---
 
-Automatically update README and save changes.
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bhavyasai139&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyasai139&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasai139&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email:  
+bhavyasaigadikota746@gmail.com
+
+💻 GitHub:  
+https://github.com/bhavyasai139
+
+🔗 LinkedIn:  
+(Add your LinkedIn URL)
+
+---
+
+⭐ Building AI Systems • Full Stack Applications • Hackathons • Research Projects
