@@ -12,18 +12,18 @@ AI/ML Developer | Full Stack Developer | B.Tech CSE Student
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student passionate about Artificial Intelligence and Full Stack Development
+🎓 B.Tech CSE Student passionate about Artificial Intelligence, Machine Learning and Full Stack Development
 
-🤖 Building AI systems using NLP, Computer Vision, Information Retrieval and Generative AI
+🤖 Building intelligent AI systems using NLP, Computer Vision and Generative AI
 
-💡 Interested in:
+💡 Areas of Interest:
 
 - Computer Vision
-- Resume Intelligence Systems
 - NLP Applications
+- Resume Intelligence Systems
 - Generative AI
+- Information Retrieval
 - Real-Time Detection Systems
-- AI Product Development
 
 🏆 Active Hackathon Participant and Problem Solver
 
@@ -109,7 +109,7 @@ Features:
 
 ✔ Music Generation
 
-✔ Low latency AI workflow
+✔ Low Latency AI Workflow
 
 ---
 
@@ -130,26 +130,31 @@ Selected among 13,000+ participants
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=bhavyasai139&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyasai139&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=bhavyasai139&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasai139&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyasai139&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasai139&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email:  
+📧 Email
+
 bhavyasaigadikota746@gmail.com
 
-💻 GitHub:  
-https://github.com/bhavyasai139
+💻 GitHub
 
-🔗 LinkedIn:  
-www.linkedin.com/in/
-gadikota-bhavya-sai
+[github.com/bhavyasai139](https://github.com/bhavyasai139)
 
+🔗 LinkedIn
+
+[Gadikota Bhavya Sai](https://www.linkedin.com/in/gadikota-bhavya-sai)
 
 ---
 
