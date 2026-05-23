@@ -147,7 +147,9 @@ bhavyasaigadikota746@gmail.com
 https://github.com/bhavyasai139
 
 🔗 LinkedIn:  
-(Add your LinkedIn URL)
+www.linkedin.com/in/
+gadikota-bhavya-sai
+
 
 ---
 
