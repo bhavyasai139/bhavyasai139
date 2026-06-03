@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋 I'm Gadikota Bhavya Sai</h1>
+<h1 align="center">Hi 👋, I'm Gadikota Bhavya Sai</h1>
 
 <h3 align="center">
-AI/ML Developer | Full Stack Developer | B.Tech CSE Student
+AI/ML Engineer | Full Stack Developer | B.Tech CSE Student
 </h3>
+
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and Real-World Problem Solving
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bhavyasai139&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -12,18 +16,30 @@ AI/ML Developer | Full Stack Developer | B.Tech CSE Student
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student passionate about Artificial Intelligence, Machine Learning and Full Stack Development
+🎓 B.Tech Computer Science & Engineering Student
 
-🤖 Building intelligent AI systems using NLP, Computer Vision and Generative AI
+🤖 Passionate about building AI-powered applications using Machine Learning, NLP, Computer Vision, and Generative AI
 
 💡 Areas of Interest:
 
-- Computer Vision
-- NLP Applications
-- Resume Intelligence Systems
-- Generative AI
-- Information Retrieval
-- Real-Time Detection Systems
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Information Retrieval
+* Generative AI
+* Full Stack Development
+
+🔭 Currently Working On:
+
+* AI Resume Evaluation & Candidate Ranking System
+* Crime Scene Solver – AI CCTV Analysis Platform
+
+🌱 Currently Learning:
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Advanced NLP Systems
 
 🏆 Active Hackathon Participant and Problem Solver
 
@@ -31,9 +47,9 @@ AI/ML Developer | Full Stack Developer | B.Tech CSE Student
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-Java • Python • SQL • JavaScript • C
+Python • Java • SQL • JavaScript • C
 
 ### 🎨 Frontend
 
@@ -47,13 +63,21 @@ Node.js • Express.js • FastAPI • REST APIs
 
 MongoDB • MySQL • SQLite
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
-NLP • TF-IDF • Logistic Regression • Cosine Similarity
+NLP • TF-IDF • Cosine Similarity
+
+Logistic Regression • Scikit-Learn
 
 YOLO • CLIP • SBERT • PyTorch
 
-### 🧰 Tools
+Generative AI • LLM Applications
+
+### 📊 Data & Visualization
+
+Pandas • NumPy • Plotly
+
+### 🧰 Tools & Platforms
 
 Git • GitHub • Postman • VS Code
 
@@ -61,62 +85,81 @@ Git • GitHub • Postman • VS Code
 
 ## 📌 Featured Projects
 
-### 🔹 Crime Scene Solver – Real-Time AI CCTV Detection System
+### 🔹 AI Resume Evaluation & Candidate Ranking System
 
-Built an AI-powered CCTV analysis system using:
+An intelligent ATS-based recruitment platform that automates resume screening and candidate ranking.
 
-YOLO + CLIP + SBERT + MongoDB + Next.js
+#### Key Features
 
-✔ Real-time video analysis
+✔ PDF & DOCX Resume Parsing
 
-✔ Semantic caption deduplication
+✔ ATS Compatibility Scoring
 
-✔ Weapon detection evaluation
+✔ NLP-Based Skill Extraction
 
-✔ AI surveillance workflow
+✔ Manual Role Selection
+
+✔ Auto Role Detection
+
+✔ TF-IDF Similarity Analysis
+
+✔ Logistic Regression Prediction
+
+✔ Candidate Ranking & Analytics
+
+✔ Recruiter Authentication (SQLite)
+
+✔ CSV Report Generation
+
+#### Tech Stack
+
+Python • Streamlit • NLTK • TF-IDF • Scikit-Learn • SQLite • Plotly
 
 ---
 
-### 🔹 AI Resume Evaluation & Candidate Ranking System
+### 🔹 Crime Scene Solver – Real-Time AI CCTV Detection System
 
-Features:
+An AI-powered surveillance and investigation platform for intelligent CCTV analysis.
 
-✔ Resume Parsing
+#### Key Features
 
-✔ ATS Evaluation
+✔ Real-Time Video Analysis
 
-✔ Skill Extraction
+✔ Semantic Caption Deduplication
 
-✔ Candidate Ranking
+✔ Weapon Detection Evaluation
 
-✔ Role Detection
+✔ AI-Based Surveillance Workflow
 
-Tech Stack:
+✔ Evidence Search & Retrieval
 
-Python • Streamlit • TF-IDF • Logistic Regression • SQLite
+#### Tech Stack
+
+YOLO • CLIP • SBERT • MongoDB • Next.js • Python
 
 ---
 
 ### 🔹 Emotion-Aware AI Music Generation & Voice Synthesis Platform
 
-Features:
+An intelligent multimedia platform that generates music and voice outputs based on user emotions.
+
+#### Key Features
 
 ✔ Emotion Classification
 
-✔ Lyric Generation
+✔ AI Lyric Generation
 
 ✔ Voice Synthesis
 
 ✔ Music Generation
 
-✔ Low Latency AI Workflow
+✔ Low-Latency AI Workflow
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Top 250 Finalist – Centific Premier Hackathon 2.0  
-Selected among 13,000+ participants
+🏅 Top 250 Finalist – Centific Premier Hackathon 2.0 (13,000+ Participants)
 
 🥈 2nd Place – Rewind and Recode National Level Hackathon
 
@@ -146,16 +189,17 @@ Selected among 13,000+ participants
 
 📧 Email
 
-bhavyasaigadikota746@gmail.com
+[bhavyasaigadikota746@gmail.com](mailto:bhavyasaigadikota746@gmail.com)
 
 💻 GitHub
 
-[github.com/bhavyasai139](https://github.com/bhavyasai139)
+https://github.com/bhavyasai139
 
 🔗 LinkedIn
 
-[Gadikota Bhavya Sai](https://www.linkedin.com/in/gadikota-bhavya-sai)
+https://www.linkedin.com/in/gadikota-bhavya-sai
 
 ---
 
-⭐ Building AI Systems • Full Stack Applications • Hackathons • Research Projects
+⭐ Passionate about AI Systems, Applied Machine Learning, Full Stack Development, Hackathons, and Building Real-World Solutions.
+
